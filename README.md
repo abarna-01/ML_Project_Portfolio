@@ -30,3 +30,5 @@ This repository contains end-to-end machine learning projects focused on solving
 ## 🎯 Goal
 
 To build interpretable and scalable ML solutions aligned with business objectives.
+
+Actively building hands-on ML solutions and strengthening proficiency in Python, model evaluation, prompt engineering & applied AI engineering concepts.
